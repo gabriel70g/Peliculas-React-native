@@ -1,4 +1,4 @@
-https://gitlab.com/gabriel701/peliculas-react-native/-/blob/main/example.png
+![alt text](https://gitlab.com/gabriel701/peliculas-react-native/-/raw/main/example.png)
 # Peliculas-React-native
 
 Movies App
