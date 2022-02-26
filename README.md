@@ -1,4 +1,5 @@
-https://gitlab.com/gabriel701/peliculas-react-native/-/blob/main/example.png
+![example 1](https://gitlab.com/gabriel701/peliculas-react-native/-/raw/main/scrennCapture/example.png)
+![example 2](https://gitlab.com/gabriel701/peliculas-react-native/-/raw/main/scrennCapture/example2.png)
 # Peliculas-React-native
 
 Movies App
